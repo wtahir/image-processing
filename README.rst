@@ -14,25 +14,6 @@ The main objective is to bundle general image processing tools into a single pac
 - Image synthesis
 - Visualization
 
-Project steering committee
---------------------------
-
-- Lutz Goldmann <lutz@omnius.com> (Lead)
-- Mauricio Villegas <mauricio@omnius.com>
-- Waqas Tahir <waqas@omnius.com>
-
-Contributing
-------------
-
-- The master branch in bitbucket is blocked for pushing. Thus to contribute it is required to create and push to a new branch and issue a pull request.
-- A pull request will only be accepted if
-
-  - All python files pass a pylint error check.
-  - All unit tests run successfully.
-  - The test coverage remains more or less the same or it increases.
-
-- When developing after cloning be sure to run the githook-pre-commit to setup the pre-commit hook. This will help you by automatically running pylint before every commit and automatically update the package documentation.
-
 Testing
 -------
 
