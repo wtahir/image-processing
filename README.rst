@@ -25,5 +25,9 @@ $ python image_blend.py
 
 Testing
 -------
-Unit testing is included in 
+To run uni tests:
+
+```
+$ test_image_tools.py
+```
 
