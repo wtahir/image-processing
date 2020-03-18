@@ -10,9 +10,8 @@ The main objective is to bundle general image processing tools into a single pac
 
 Usage
 -----
-```python
-s = "Python syntax highlighting"
-print s
+```sh
+$ python image_blend.py
 ```
 
 Testing
