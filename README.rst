@@ -8,6 +8,12 @@ The main objective is to bundle general image processing tools into a single pac
 - Image synthesis
 - Visualization
 
+Usage
+-----
+insi
+
+
+
 Testing
 -------
 
