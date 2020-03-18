@@ -1,13 +1,7 @@
-omni:us image processing package
-================================
-
 The main objective is to bundle general image processing tools into a single package in order to make them reusable in other packages and applications. This may include functions for the following topics:
 
 - Image arithmetic
-- Point operations
-- Geometric operations
 - Image analysis
-- Morphological operations
 - Digital filters
 - Feature detectors
 - Images transforms
