@@ -10,9 +10,15 @@ The main objective is to bundle general image processing tools into a single pac
 
 Usage
 -----
-``
+
+Run requirements.txt to install all the dependencies
+```
+$ pip install requirements.txt
+```
+Run main python script and provide all the arguments
+```
 $ python image_blend.py
-``
+```
 
 Testing
 -------
