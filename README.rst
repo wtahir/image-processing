@@ -16,6 +16,7 @@ Run requirements.txt to install all the dependencies.
 ```
 $ pip install requirements.txt
 ```
+
 Run main python script and provide all the arguments.
 
 ```
@@ -24,4 +25,5 @@ $ python image_blend.py
 
 Testing
 -------
+Unit testing is included in 
 
