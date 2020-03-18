@@ -10,7 +10,7 @@ The main objective is to bundle general image processing tools into a single pac
 
 Usage
 -----
-```sh
+```
 $ python image_blend.py
 ```
 
