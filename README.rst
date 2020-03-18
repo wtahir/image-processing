@@ -10,9 +10,9 @@ The main objective is to bundle general image processing tools into a single pac
 
 Usage
 -----
-```
-$ python mage_blend.py
-
+```python
+s = "Python syntax highlighting"
+print s
 ```
 
 Testing
