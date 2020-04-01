@@ -1,6 +1,6 @@
-fire==0.2.*
-numpy==1.*
-pagexml>=2019.10.*
-pytest==5.*
-opencv-python==4.1.0.25
-pillow==6.2.0
+fire
+numpy
+pagexml
+pytest
+opencv-python
+pillow
